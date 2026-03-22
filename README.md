@@ -26,12 +26,6 @@ O projeto consiste na modelagem e implementação de um sistema de controle de a
 * `📁 media/`: Acervo de imagens do projeto.
 * `📄 DIARIO_DE_MONTAGEM.md`: Log cronológico da construção física da bancada e integração da eletrônica.
 
-## 📷 Acompanhamento do Projeto
-
-Você pode conferir as fotos da evolução da montagem física acessando o nosso [Diário de Montagem](DIARIO_DE_MONTAGEM.md).
-
-*(Link para a pasta do Google Drive com os vídeos de testes em breve)*
-
----
-**Autor:** Engenheiro Victor Coelho  
+#
+**Autor:** Victor Coelho  
 **Contato:** victorcoelho073@gmail.com
