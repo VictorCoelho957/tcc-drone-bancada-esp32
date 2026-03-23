@@ -18,6 +18,13 @@ O projeto consiste na modelagem e implementação de um sistema de controle de a
 * **Atuadores:** 4 Motores Brushless + ESCs genéricos
 * **Estrutura:** Bancada de testes impressa em 3D/Acrílico com articulação central.
 
+## 📷 Acompanhamento do Projeto
+
+Pode conferir as fotografias da evolução da montagem física acedendo ao nosso [Diário de Montagem](DIARIO_DE_MONTAGEM.md).
+
+Para ver o drone em ação na bancada, com os testes de rotação dos motores e a estabilização em malha fechada, aceda ao nosso arquivo de vídeos:
+[**▶️ Assistir aos Vídeos de Teste no Google Drive**](https://drive.google.com/file/d/16zVSO-qJUlhX-sR13sDXtV-wQlXhtTBw/view?usp=sharing)
+
 ## 📁 Estrutura do Repositório
 
 * `📁 firmware/`: Códigos-fonte em C++ (Arduino Framework).
